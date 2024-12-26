@@ -18,6 +18,8 @@
 
 { "url": "https://www.饭太硬.com/tv", "name": "饭太硬官方" },
 
+{ "url": "http://www.饭太硬.xyz/tv", "name": "饭太硬官方备用" },
+
 { "url": "https://github.moeyy.xyz/https://github.com/namegenliang/dy/blob/main/namegen.json", "name": "来自catvod.com" },
 
 { "url": "https://tvbox.王二小放牛娃.xyz", "name": "王二小放牛娃官方" },
