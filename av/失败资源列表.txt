@@ -1,0 +1,7 @@
+http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js
+http://127.0.0.1:9978/file/TVBox/JS/js/采集之王.js?type=url&params=http://127.0.0.1:9978/file/TVBox/JS/js/采集静态.json
+http://127.0.0.1:9978/file/TVBox/JS/js/九妖仓库.js
+http://127.0.0.1:9978/file/TVBox/jar/fm.jar
+http://127.0.0.1:9978/file/TVBox/JS/js/29片库.js
+http://127.0.0.1:9978/file/TVBox/tv/live.txt
+https://cloud.lxweb.cn/f/qonQue/v6zb.txt

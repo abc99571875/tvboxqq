@@ -1,0 +1,8 @@
+http://mdxgh.tpddns.cn:9999/dzlib/采集之王[合].js?type=url&params=../json/采集静态.json$1
+http://mdxgh.tpddns.cn:9999/dzlib/quarkshare.txt
+http://mdxgh.tpddns.cn:9999/dzlib/漫画走廊[画密飞].js
+http://mdxgh.tpddns.cn:9999/dzlib/wogg.json
+http://mdxgh.tpddns.cn:9999/dzlib/thundershare.txt
+http://mdxgh.tpddns.cn:9999/dzlib/moli.json
+http://mdxgh.tpddns.cn:9999/dzlib/sambashare.txt
+https://7220.kstore.space/晴天.txt
