@@ -109,6 +109,19 @@
       }
     },
     {
+      "key": "木偶",
+      "name": "木偶备用",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./lib/peizhi.json",
+        "siteUrl": "http://www.muoupan.top/",
+        "filter": "./lib/wogg.json"
+      }
+    },
+    {
       "key": "玩偶gg",
       "name": "玩偶 | 饭",
       "type": 3,
@@ -118,6 +131,19 @@
       "ext": {
         "commonConfig": "./lib/peizhi.json",
         "siteUrl": "https://www.wogg.net/",
+        "filter": "./lib/wogg.json"
+      }
+    },
+    {
+      "key": "玩偶gg备",
+      "name": "玩偶备用",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./lib/peizhi.json",
+        "siteUrl": "https://wogg.xxooo.cf/",
         "filter": "./lib/wogg.json"
       }
     },
