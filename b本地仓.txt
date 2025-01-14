@@ -81,6 +81,8 @@ sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0","name": "吾爱线路"}
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/饭太硬/api.json", "name": "饭太硬" },
 
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/4k/4k.json", "name": "4k线路" },
+
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/小米/api.json", "name": "小米" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/abc99571875/tvboxqq/refs/heads/master/肥猫/api.json", "name": "肥猫" },
